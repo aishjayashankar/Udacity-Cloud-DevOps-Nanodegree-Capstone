@@ -1,4 +1,4 @@
-# Udacity-Could-DevOps-Nanodegree-Capstone<br /><br />
+# Udacity-Cloud-DevOps-Nanodegree-Capstone<br /><br />
 
 # Prerequisites:<br />
 
