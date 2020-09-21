@@ -19,13 +19,13 @@ Cluster created:
 Dockerhub:
 ![alt text](https://github.com/aishjayashankar/Udacity-Could-DevOps-Nanodegree-Capstone/blob/master/images/Screenshot7-dockerhub.JPG?raw=true)
 
-Docker run blue:
+Docker run blue:<br />
 ![alt text](https://github.com/aishjayashankar/Udacity-Could-DevOps-Nanodegree-Capstone/blob/master/images/Screenshot8-dockerrunblue.JPG?raw=true)
 
-Docker run green:
+Docker run green:<br />
 ![alt text](https://github.com/aishjayashankar/Udacity-Could-DevOps-Nanodegree-Capstone/blob/master/images/Screenshot9-dockerrungreen.JPG?raw=true)
 
-Kubectl pods and LoadBalancer DNS:
+Kubectl pods and LoadBalancer DNS:<br />
 ![alt text](https://github.com/aishjayashankar/Udacity-Could-DevOps-Nanodegree-Capstone/blob/master/images/Screenshot10-pods_and_loadbalancer.JPG?raw=true)
 
 Blue deployment on LoadBalancer DNS:
