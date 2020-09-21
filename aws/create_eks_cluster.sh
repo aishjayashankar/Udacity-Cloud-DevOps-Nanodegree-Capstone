@@ -1,6 +1,6 @@
 eksctl create cluster \
 --name newest-cluster \
---version 1.14 \
+--version 1.17 \
 --nodegroup-name standard-workers \
 --node-type t2.micro \
 --nodes 3 \
