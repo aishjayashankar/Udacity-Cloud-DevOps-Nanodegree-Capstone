@@ -2,7 +2,7 @@
 
 # Prerequisites:<br />
 
-Install Jenkis<br />
+Install Jenkins<br />
 Install EKS<br />
 Install Docker<br />
 Create an account in dockerhub <br />
